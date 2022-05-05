@@ -10,6 +10,13 @@ Ready for use, released on maven central, accepts PRs, regular version maintanan
 
 [![stable](https://img.shields.io/badge/lifecycle-STABLE-green.svg)](https://github.com/toolisticon#stable)
 
+### example
+
+One time showcase used for a presentation, a training or an article. Usually not maintained regularly .
+
+[![example](https://img.shields.io/badge/lifecycle-EXAMPLE-red.svg)](https://github.com/toolisticon#example)
+
+
 
 ### incubating
 
