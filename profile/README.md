@@ -8,7 +8,7 @@ Open Source tools by Holisticon
 
 Ready for use, released on maven central, accepts PRs, regular version maintanance, no active development.
 
-![stable](https://img.shields.io/badge/lifecycle-INCUBATING-orange.svg)](https://github.com/toolisticon#stable)
+[![stable](https://img.shields.io/badge/lifecycle-STABLE-green.svg)](https://github.com/toolisticon#stable)
 
 
 ### incubating
